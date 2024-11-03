@@ -1,5 +1,6 @@
 # Library API
 
+> `npm i` to install dependencies.
 > `npm run start` to run the application.
 
 ### DDL Scripts:
